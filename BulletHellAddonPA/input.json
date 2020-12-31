@@ -1,0 +1,18 @@
+{
+    "presets" : [
+        {
+            "posX": 2,
+            "posY": 2,
+            "time": 5,
+            "spawnCount": 2,
+            "spawnRate": 0.5,
+            "minRotation": 0,
+            "maxRotation": 360,
+            "offsetRotation":  15,
+            "numberOfBullets": 8,
+            "bulletSpeed": 10,
+            "parentID": "null",
+            "isRandom": false
+        }
+    ]
+}

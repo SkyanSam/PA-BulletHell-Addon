@@ -1,0 +1,14 @@
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\bin\Debug\netcoreapp3.1\BulletHellAddonPA.exe
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\obj\Debug\netcoreapp3.1\BulletHellAddonPA.csprojAssemblyReference.cache
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\obj\Debug\netcoreapp3.1\BulletHellAddonPA.AssemblyInfoInputs.cache
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\obj\Debug\netcoreapp3.1\BulletHellAddonPA.AssemblyInfo.cs
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\obj\Debug\netcoreapp3.1\BulletHellAddonPA.csproj.CopyComplete
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\bin\Debug\netcoreapp3.1\BulletHellAddonPA.deps.json
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\bin\Debug\netcoreapp3.1\BulletHellAddonPA.runtimeconfig.json
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\bin\Debug\netcoreapp3.1\BulletHellAddonPA.runtimeconfig.dev.json
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\bin\Debug\netcoreapp3.1\BulletHellAddonPA.dll
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\bin\Debug\netcoreapp3.1\BulletHellAddonPA.pdb
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\obj\Debug\netcoreapp3.1\BulletHellAddonPA.dll
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\obj\Debug\netcoreapp3.1\BulletHellAddonPA.pdb
+D:\Documents\CSharpProjects\BulletHellAddonPA\BulletHellAddonPA\BulletHellAddonPA\obj\Debug\netcoreapp3.1\BulletHellAddonPA.genruntimeconfig.cache
